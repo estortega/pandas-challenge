@@ -2,9 +2,9 @@
 
 # Project Overview
 
-As the new Chief Data Scientist for the city's school district, your responsibility is to provide insightful data analysis to help the school board and mayor make strategic decisions regarding school budgets and priorities. This project leverages Pandas and Jupyter Notebook to analyze district-wide standardized test results.
+For the following project, I was tasked with providing insightful data analysis to support a school board and mayor in making strategic decisions about school budgets and priorities. For this project, I used Pandas and Jupyter Notebook to analyze district-wide standardized test results.
 
-The goal is to aggregate and analyze data related to student performance, school size, budget allocation, and other metrics to uncover trends and insights.
+My goal was to aggregate and analyze data related to student performance, school size, budget allocation, and other key metrics in order to uncover meaningful trends and insights.
  
 # Key Objectives
 * District Summary
