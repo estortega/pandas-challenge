@@ -55,11 +55,11 @@ Compare school performance based on school type (e.g., Charter vs. District).
 
 # Installation and Setup
 
--Python 3.x
+- Python 3.x
 
--Jupyter Notebook
+- Jupyter Notebook
 
--Pandas library
+- Pandas library
 
 # Key Insights
 
